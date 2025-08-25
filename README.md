@@ -1,12 +1,13 @@
-## Hi there 👋
+## Olá,sou Karlos Eduardo atualmente estou; 
 
+- 🔭 Cursando Sistemas de Informação 
+- 🌱 Aprendendo desenvolvimento com o framework ASP.net core 
 <!--
 **Kagimon/Kagimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Cursando Sistemas de Informação 
-- 🌱 Aprendendo desenvolvimento com o framework ASP.net core 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
