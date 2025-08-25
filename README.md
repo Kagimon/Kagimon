@@ -1,4 +1,4 @@
-## Olá,sou Karlos Eduardo atualmente estou; 
+## Olá, sou Karlos Eduardo atualmente estou; 
 
 - 🔭 Cursando Sistemas de Informação 
 - 🌱 Aprendendo desenvolvimento com o framework ASP.net core 
